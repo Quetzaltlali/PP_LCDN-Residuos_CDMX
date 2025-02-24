@@ -1,5 +1,5 @@
-# 🗑️ **Problema Prototípico e Incidentes Críticos Sexto semestre: **
-# 📍 **Contenedores para Basura en la Ciudad de México**
+## 🗑️ **Problema Prototípico e Incidentes Críticos Sexto semestre: **
+## 📍 **Contenedores para Basura en la Ciudad de México**
 ---
 En este repositorio, presentamos los resultados obtenidos de nuestro proyecto de **análisis de gestión de residuos en la Ciudad de México**. 
 

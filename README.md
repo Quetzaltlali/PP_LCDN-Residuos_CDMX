@@ -12,5 +12,3 @@ Puedes acceder a la presentación en Canva a través del siguiente enlace:
 
 ---
 
-Este formato es más claro y atractivo para que se vea bien en un notebook de Jupyter. 😊 Si necesitas ajustes o agregar más información, dime. 🚀
-
